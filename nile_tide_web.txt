@@ -1,0 +1,30 @@
+nile_tide_web/
+├── lib/
+│   ├── main.dart
+│   ├── screens/
+│   │   ├── home_screen.dart
+│   │   ├── search_screen.dart
+│   │   ├── submission_screen.dart
+│   │   ├── comments_screen.dart
+│   │   ├── news_screen.dart
+│   ├── services/
+│   │   ├── content_service.dart
+│   │   ├── analytics_service.dart
+│   │   ├── notifications_service.dart
+│   ├── models/
+│   │   ├── content_item.dart
+│   ├── localization/
+│   │   ├── en.json
+│   │   ├── am.json
+│   │   ├── om.json
+│   ├── widgets/
+│   │   ├── comment_widget.dart
+│   │   ├── vote_widget.dart
+│   │   ├── ad_widget.dart
+│   └── utils/
+│       ├── scheduler.dart
+├── web/
+│   ├── index.html
+│   ├── favicon.png
+│   ├── manifest.json
+├── pubspec.yaml
